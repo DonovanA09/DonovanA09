@@ -1,4 +1,4 @@
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+![head.png](https://media.discordapp.net/attachments/1000683727124439061/1071927740007202918/readme-top.png)
 
 Hi there, thanks for stopping by, this is **Donovan Alfaro**.
 
@@ -6,20 +6,11 @@ Hi there, thanks for stopping by, this is **Donovan Alfaro**.
 
 ```javascript
 const charles = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["boostrap", "sass"]
-        },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
-    }
+    "Hello W🌎rld"
 };
 ```
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
+![DonovanA09's github stats](https://github-readme-stats.vercel.app/api?username=DonovanA09&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/DonovanA09">
   <img src="https://img.shields.io/github/followers/DonovanA09">
