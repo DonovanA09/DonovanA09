@@ -1,4 +1,4 @@
-![head.png](https://media.discordapp.net/attachments/1000683727124439061/1071927740007202918/readme-top.png)
+![head.png](https://media.discordapp.net/attachments/1000683727124439061/1071929298396655729/readme-top-name.png)
 
 Hi there, thanks for stopping by, this is **Donovan Alfaro**.
 
