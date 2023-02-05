@@ -54,5 +54,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cerberodev">
 </p>
-
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DonovanA09&theme=tokyonight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&dates=EBEBEB)](https://git.io/streak-stats)
+</div>
