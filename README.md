@@ -10,11 +10,11 @@ const donovan = {
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
+            js: ["React", "Angular"],
+            css: ["bootstrap"]
         },
         backEnd: ["Java", "PHP", "Lua"],
-        databases: ["MySql", "oracle"],
+        databases: ["MySql", "MongoDB"],
     }
 };
 ```
